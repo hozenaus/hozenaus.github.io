@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hozenaus.github.io/sitemap.html.gz
+Sitemap: https://hozenaus.github.io/app/sitemap.html.gz
+Sitemap: https://hozenaus.github.io/assets/sitemap.html.gz
+Sitemap: https://hozenaus.github.io/css/sitemap.html.gz
+Sitemap: https://hozenaus.github.io/includes/sitemap.html.gz
+Sitemap: https://hozenaus.github.io/item/sitemap.html.gz
+Sitemap: https://hozenaus.github.io/src/sitemap.html.gz
